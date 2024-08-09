@@ -6,4 +6,4 @@
 
 ■ Major: Statistic
 
-■ MBTI: INFJ
+
