@@ -2,7 +2,7 @@
 
 ■ Birth: 1997.06.25
 
-■ Education: SungKyunKwan University (SKKU)
+■ Education: Statistics,SungKyunKwan University (SKKU)
 
 ■ Major: Statistic
 
