@@ -37,8 +37,9 @@ I am studying Statistics and Machine Learning
 
 ### 📊 Projects & Contests
 
-[날씨 빅데이터 콘테스트 날씨 예측 모델링]('https://github.com/csw0625/Sundered-Sky')🏆  
-[서울특별시 행정동별 은둔고립청년 지수 산출 및 정책 제언]('https://github.com/csw0625/Discovering_isolated_and_reclusive_youth_in_Seoul')🏆  
-[금융이상거래 탐지 AlxData Challenge 2024]('https://github.com/csw0625/FSI_AlxData_Challenge_2024')🔝  
-[서을특별시 안심택배함 재배치 분석]('https://github.com/csw0625/Relocation-Analysis-for-Safe-lockers-in-Seoul')
+[날씨 빅데이터 콘테스트 날씨 예측 모델링](https://github.com/csw0625/Sundered-Sky)🏆  
+[서울특별시 행정동별 은둔고립청년 지수 산출 및 정책 제언](https://github.com/csw0625/Discovering_isolated_and_reclusive_youth_in_Seoul)🏆  
+[금융이상거래 탐지 AlxData Challenge 2024](https://github.com/csw0625/FSI_AlxData_Challenge_2024)🔝  
+[서을특별시 안심택배함 재배치 분석](https://github.com/csw0625/Relocation-Analysis-for-Safe-lockers-in-Seoul)
+
 
