@@ -8,7 +8,7 @@ I am studying Statistics and Machine Learning
 
 ### 🧠 Interested in...
 - Statistical Learning
-- Machine Learning (Mainly For Tabular Data)
+- Machine Learning
 - Causal Inference
 
 <br>
