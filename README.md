@@ -7,9 +7,9 @@ I am studying Statistics and Machine Learning
 <br>
 
 ### 🧠 Interested in...
-- Statistical Learning
-- Machine Learning
-- Causal Inference
+- #### Statistical Learning
+- #### Machine Learning
+- #### Causal Inference
 
 <br>
 
@@ -27,7 +27,7 @@ I am studying Statistics and Machine Learning
 <br>
 
 ### 🏢 Organization
-[성균관대학교 통계분석학회 P-SAT]('https://github.com/P-Sat')
+#### [성균관대학교 통계분석학회 P-SAT]('https://github.com/P-Sat')
 <ul>
   <li>📅 <strong>2023-1</strong> 데이터마이닝팀</li>
   <li>📅 <strong>2023-2</strong> 선형대수학팀</li>
@@ -39,7 +39,7 @@ I am studying Statistics and Machine Learning
 
 [날씨 빅데이터 콘테스트 날씨 예측 모델링](https://github.com/csw0625/Sundered-Sky)🏆  
 [서울특별시 행정동별 은둔고립청년 지수 산출 및 정책 제언](https://github.com/csw0625/Discovering_isolated_and_reclusive_youth_in_Seoul)🏆  
-[금융이상거래 탐지 AlxData Challenge 2024](https://github.com/csw0625/FSI_AlxData_Challenge_2024)🔝  
+[FSI AlxData Challenge 2024 금융이상거래 탐지](https://github.com/csw0625/FSI_AlxData_Challenge_2024)🔝  
 [서을특별시 안심택배함 재배치 분석](https://github.com/csw0625/Relocation-Analysis-for-Safe-lockers-in-Seoul)
 
 
