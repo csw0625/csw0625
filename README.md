@@ -10,7 +10,6 @@ I am studying Statistics and Machine Learning in SungKyunKwan University.
 - #### Statistical Learning
 - #### Machine Learning
 - #### Causal Inference
-- #### eXplainable AI
 
 <br>
 
