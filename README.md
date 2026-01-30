@@ -4,7 +4,7 @@
 
 ### 🎓 Education
 - **Sungkyunkwan University (SKKU)** — B.S. in Statistics (*02.2022 – 02.2026*)  
-- **Seoul National University** — BigData Fintech AI Course (*06.2025 – 02.2026*)
+- **Seoul National University** — BigData Fintech AI Course (*06.2025 – 01.2026*)
 
 <br>
 
