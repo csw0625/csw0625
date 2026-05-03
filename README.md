@@ -56,14 +56,13 @@
 
 ### 📊 Contests
 
-[날씨 빅데이터 콘테스트 날씨 예측 모델링](https://github.com/csw0625/Sundered-Sky)🏆  
-[서울특별시 행정동별 은둔고립청년 지수 산출 및 정책 제언](https://github.com/csw0625/Discovering_isolated_and_reclusive_youth_in_Seoul)🏆  
-[FSI AlxData Challenge 2024 금융이상거래 탐지](https://github.com/csw0625/FSI_AlxData_Challenge_2024)🔝  
+[과학기술정보통신부 데이터안심구역 활용 경진대회 최우수상](https://github.com/csw0625/Discovering_isolated_and_reclusive_youth_in_Seoul)🏆  
+[기상청 날씨 빅데이터 콘테스트 최우수상](https://github.com/csw0625/Sundered-Sky)🏆  
+[금융보안원 FSI AlxData Challenge 2024 금융이상거래 탐지 본선](https://github.com/csw0625/FSI_AlxData_Challenge_2024)🔝  
 
 <br>
 
 ### 📌 Project
-- [서을특별시 안심택배함 재배치 분석](https://github.com/P-Sat/P-Sat_2023_Spring/blob/main/%EC%A3%BC%EC%A0%9C%EB%B6%84%EC%84%9D/4%ED%8C%80_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D%ED%8C%80.pdf)
 - 한국화재보험협회 건축물 화재 재발 위험률 모델 개발
 
 
