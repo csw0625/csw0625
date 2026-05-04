@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=38BDF8"/>
 </p>
 
 
@@ -48,8 +48,8 @@
 ### 🏢 Organization
 #### [성균관대학교 통계분석학회 P-SAT](https://github.com/P-Sat)
 
-- 📅 **[2023-1 데이터마이닝팀](https://github.com/P-Sat/P-Sat_2023_Spring)**
-- 📅 **[2023-2 선형대수학팀](https://github.com/P-Sat/P-Sat_2023_Fall)**
+- 1️⃣ **[2023-1 데이터마이닝팀](https://github.com/P-Sat/P-Sat_2023_Spring)**
+- 2️⃣ **[2023-2 선형대수학팀](https://github.com/P-Sat/P-Sat_2023_Fall)**
 
 <br>
 
