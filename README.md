@@ -8,12 +8,7 @@
 
 <br>
 
-### 🧠 Interested in...
-- #### Statistical Learning
-- #### Machine Learning
-- #### Causal Inference
 
-<br>
 
 <h3 align="center">🛠️ Stacks</h3>
 
